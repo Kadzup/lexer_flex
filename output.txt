@@ -1,0 +1,35 @@
+
+Line 1
+Text:
+call 1231 cancel
+<Keyword Call, call>
+<Number, 1231>
+<Keyword Cancel, cancel>
+
+Line 2
+Text:
+13212312546 c2322 ccalll
+<Number, 1321>
+<Number, 2312>
+<Number, 2322>
+<Keyword Call, call>
+
+Line 3
+Text:
+[call] 1231231456261
+<Keyword Call, call>
+<Number, 1231>
+
+Line 4
+Text:
+recancel 1112 callme
+<Keyword Cancel, cancel>
+<Number, 1112>
+<Keyword Call, call>
+
+Line 5
+Text:
+123123lcncall cancel
+<Number, 1231>
+<Keyword Call, call>
+<Keyword Cancel, cancel>
